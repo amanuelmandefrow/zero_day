@@ -1,7 +1,1 @@
-do nott worry i wont write anything on it
-
-
-
-
-
-
+The command uname prints when you run it without any option
